@@ -13,7 +13,7 @@ import java.util.Scanner;
  * for the match to the user's card. To be used as starting code in ICE 1
  * 
  * @author srinivsi
- * @modifier Stefan Lastname, StudentID - Modified on 2025-09-17
+ * @modifier Stefan ,991725603 - Modified on 2025-09-17
  */
 public class CardTrick {
     
